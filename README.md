@@ -10,21 +10,29 @@ Ever wondered how the wealth of nations stacks up? 💰 In this project, I dove 
 
 ---
 
-## 🛠️ Tools and Skills  
-### 🟢 Excel Mastery: 💡  
-- **Data Cleaning**: Say goodbye to messy data! 🧽 Cleaned up inconsistencies, handled missing values, and structured the dataset like a pro.  
-- **Data Manipulation**: Summarized key metrics using formulas, pivot tables, and a sprinkle of spreadsheet magic! ✨  
+## 🛠️ Tools and Skills
 
-### 🔵 Tableau Wizardry: 🧙‍♂️  
-- **Visualizations**: Built 4 engaging visuals:  3 bar charts 📊, and 1 map 🗺️ that reveal fascinating insights.  
-- **Dashboard Design**: Combined all visuals into a sleek, interactive dashboard that tells a powerful story at a glance!  
+### 🟢 Excel Mastery: 💡
 
----
+- **Data Cleaning**: Say goodbye to messy data! 🧽 Cleaned up inconsistencies, handled missing values, and structured the dataset like a pro.
+- **Data Manipulation**: Summarized key metrics using formulas, pivot tables, and a sprinkle of spreadsheet magic! ✨
 
-## 🔍 Quick Insight 
-- 🧭 **Economic Trends**: Discover global GDP changes and patterns, life expectancy and smart phone users. 
-- 🌎 **Regional Comparisons**: Dive into wealth disparities insights.  
-- 🔍 **Key Indicators**: Uncover what drives wealth in different nations.  
+#### Excel Skills Learned:
+- Handling missing values and data inconsistencies.
+- Structuring and organizing raw data for better analysis.
+- Using pivot tables and formulas to summarize key metrics.
+- Cleaning and preparing data for downstream visualization.
+
+### 🔵 Tableau Wizardry: 🧙‍♂️
+
+- **Visualizations**: Built 4 engaging visuals: 3 bar charts 📊, and 1 map 🗺️ that reveal fascinating insights.
+- **Dashboard Design**: Combined all visuals into a sleek, interactive dashboard that tells a powerful story at a glance!
+
+#### Tableau Skills Learned:
+- Designing effective and visually appealing bar charts and maps.
+- Creating interactive dashboards for intuitive user exploration.
+- Applying principles of data storytelling, such as chart selection and layout optimization.
+- Using Tableau features to integrate multiple data visualizations into a cohesive narrative.
 
 ![image](https://github.com/user-attachments/assets/9693384d-3f2b-4903-9589-d9c74479da70)
 
@@ -39,3 +47,27 @@ Ever wondered how the wealth of nations stacks up? 💰 In this project, I dove 
 
 ## 🎉 Let’s Dive In!  
 This project is a testament to how *data cleaning* 🧹 and *visualization skills* ✨ can turn raw data into actionable insights. Ready to explore? Let’s go!  
+
+
+## 📝 Reflection
+This project challenged me to push my data visualisation skills further. This project reminded me why I love working with data. The ability to break down big data to managable chunks 🧩! I enjoyed exploring data and proving that charts can be exciting.
+---
+
+## 🤵🏽 Professional Skills Used 
+
+- ### 🔍 Attention to Detail:
+- Ensuring accuracy in data cleaning, analysis, and visualization.
+- Refining visualizations to maintain clarity and precision.
+- ### 🕒 Time Management
+- Structuring the project workflow efficiently, balancing data cleaning, analysis, and dashboard creation.
+
+## 🧠 Personal Skills 
+- ### ✨ Creativity
+- Designing a visually appealing and interactive dashboard to captivate the audience.
+- Innovatively presenting data to highlight key findings in an engaging way.
+
+- ### 🌟 Adaptability & Learning
+- Learning new Tableau features and techniques to enhance the dashboard.
+- Flexibly adapting to challenges, like reformatting data for specific visualizations.
+
+
