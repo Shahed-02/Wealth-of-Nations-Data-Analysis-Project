@@ -11,17 +11,17 @@ Ever wondered how the wealth of nations stacks up? 💰 In this project, I dove 
 ---
 
 ## 🛠️ Tools and Skills  
-### Excel Mastery: 💡  
+### 🟢 Excel Mastery: 💡  
 - **Data Cleaning**: Say goodbye to messy data! 🧽 Cleaned up inconsistencies, handled missing values, and structured the dataset like a pro.  
 - **Data Manipulation**: Summarized key metrics using formulas, pivot tables, and a sprinkle of spreadsheet magic! ✨  
 
-### Tableau Wizardry: 🧙‍♂️  
+### 🔵 Tableau Wizardry: 🧙‍♂️  
 - **Visualizations**: Built 4 engaging visuals:  3 bar charts 📊, and 1 map 🗺️ that reveal fascinating insights.  
 - **Dashboard Design**: Combined all visuals into a sleek, interactive dashboard that tells a powerful story at a glance!  
 
 ---
 
-## 🌟 What You’ll See  
+## 🔍 Quick Insight 
 - 🧭 **Economic Trends**: Discover global GDP changes and patterns, life expectancy and smart phone users. 
 - 🌎 **Regional Comparisons**: Dive into wealth disparities insights.  
 - 🔍 **Key Indicators**: Uncover what drives wealth in different nations.  
